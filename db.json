@@ -244,9 +244,9 @@
     }
   ],
   "dogaffair": [],
-  "masailibrary":[
+  "masailibrary": [
     {
-      "id":1,
+      "id": 1,
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
@@ -257,13 +257,20 @@
       "borrowed": false
     }
   ],
-  "twitterdata":{
-    "user":[
-  
+  "twitterdata": {
+    "user": [
+      {
+        "id": 1,
+        "image": "https://i.pravatar.cc/150?img=45",
+        "fullname": "summaiya",
+        "email": "gzlfathima@gmail.com",
+        "password": "summi"
+      }
     ],
-    "posts":[
-
-    ]
-    
+    "posts": [{
+      "id":1,
+      "comment":"Twinkle Twinkle Little Star",
+      "gif":"https://i.pinimg.com/originals/ac/31/e9/ac31e9ff353d7454c4c9c5f03fbdfcf5.gif"
+    }]
   }
 }
