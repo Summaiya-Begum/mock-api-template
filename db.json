@@ -257,19 +257,22 @@
       "borrowed": false
     }
   ],
-    "user": [
-      {
-        "id": 1,
-        "image": "https://i.pravatar.cc/150?img=45",
-        "fullname": "summaiya",
-        "email": "gzlfathima@gmail.com",
-        "password": "summi"
-      }
-    ],
-    "posts": [{
-      "id":1,
-      "comment":"Twinkle Twinkle Little Star",
-      "gif":"https://i.pinimg.com/originals/ac/31/e9/ac31e9ff353d7454c4c9c5f03fbdfcf5.gif"
-    }]
-
+  "user": [
+    {
+      "id": 1,
+      "image": "https://i.pravatar.cc/150?img=45",
+      "fullname": "summaiya",
+      "email": "gzlfathima@gmail.com",
+      "password": "summi",
+      "follower": 94,
+      "following": 66
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "comment": "Twinkle Twinkle Little Star",
+      "gif": "https://i.pinimg.com/originals/ac/31/e9/ac31e9ff353d7454c4c9c5f03fbdfcf5.gif"
+    }
+  ]
 }
